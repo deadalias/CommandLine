@@ -1,217 +1,101 @@
-SampleAssignment
+Command Line
 ================
 
-A Sample Assignment that will go through the workflow of git and GitHub. 
+When you double click on a folder to open it, you are using the Graphical User Interface of an operating system. Most people find the GUI easy and intuitive. There is another way to open folders using the Command Line Interface. Most people find the CLI more confusing at first, but it can be faster and more powerful than the GUI. In this assignment we'll practice using the CLI to make some folders. Modern operating systems have both a CLI and a GUI. They are called different things in different operating systems, so we will start with some vocabulary:
 
-For AP Computer Science, you will be using services called Git and GitHub. Git and GitHub allow you to work as a team with other programmers on the same project and to post your finished assignments on the internet. In many ways, Git and GitHub are like google docs for programmers. Git and GitHub have become standards and are commonly used by professional programmers. In fact, every professional programmer works with Git and GitHub or something like Git and GitHub. 
+Operating System	CLI					GUI							a folder is called
+Windows				Command Prompt		Windows Explorer 				folder
+MacOS				Terminal			MacOS Finder					folder
+Unix 				shell or bash		there are too many to list here	directory
 
-IMPORTANT: You must do all the following 18 steps in precisely the same order. If you get to a step you don't understand, don't go on to the next step until you get your question answered.
+The Unix CLI is especially powerful. We are going to use a program called Git Bash that lets us use Unix CLI commands on a Windows computer. The Unix commands you will use in this assignment are:
 
-1. Sign up for a free GitHub account if you don’t already have one. If you don’t have a GitHub account, go to GitHub.com and sign up. Otherwise go to Step 2.
+cd ~					Change to the home directory (open the home folder)
+cd ..					Navigate up (“go back”) one folder
+cd <some folder>	Open the folder named <some folder>
+pwd					Present Working Directory (the current folder)
+ls						List the contents of the current folder 
+mkdir					Make a new folder
+rmdir					Remove an empty folder 
 
-2. Navigate to the sample assignment on GitHub. Sign in to your GitHub account and then go to https://GitHub.com/APCSLowell/SampleAssignment
+In this assignment you are going to create some folders. You will then take a picture of those folders with a screen shot. You will submit the screen shot to show that you have completed the assignment. 
 
-3. Fork the SampleAssignment
+Step 1: Open Git Bash
 
-Forking is making a copy of the of the “repo” (that's short for repository). It's like copying a google doc. Click on the Fork button at the top right corner.
+One way to open Git Bash is to click on the Start Menu and choose All Programs | Git | Git Bash
 
+Step 2: Open Windows Explorer
 
-4. Copy the HTTPS clone URL to the clipboard
+One way in Windows 7 is to click on the Start Menu and double click on Computer. In Windows 8, Windows Explorer is called File Explorer.
 
+Step 3: Arrange the two windows so they are about the same size and side by side
 
+Your two windows should look like this
+![image 1](CLI1.png)
 
+Step 4: Navigate to the My Documents folder in Windows Explorer
 
+“Navigate” in this context means “to go there.” One way is to click on Documents under Computer in the left of the Windows Explorer window. This opens the My Documents folder to let us see its contents. So we just “navigated” to the My Documents folder.
 
+Step 5: Navigate to and show the contents of the My Documents folder in Git Bash
 
-Go to the area of the screen marked HTTPS clone URL and click on the “copy to clipboard” button.
-
-5. Start Git Bash
-
-Git Bash gives you the ability to use Unix commands on Windows PC. Go to the Windows Start Menu and double click Git Bash. It will be listed under All Programs.
-
-6. Open the apjava folder
-
-Your apjava folder should be located at 
-C:\Users\ < Your User Name > \Documents\apjava
-
-The following five commands should navigate to your apjava folder:
+The following four commands should help you navigate to your documents folder:
 cd c:
 cd users
-cd < Your User Name >
+cd < your school loop username >
 cd documents
-cd apjava
+![image 2](CLI2.png)
 
+Step 6: Use Git Bash to create a new folder called junk
 
-If you don't have an apjava folder at that location, one way to create one is to navigate to the Documents folder and type the command mkdir apjava
+One way is to type the command mkdir junk (which means to make a new directory called junk) and then type the command ls to list the contents of the directory. Notice that the folder junk also pops up in Windows Explorer on the right. It's very important to realize we are looking at the same folder two different ways. Git Bash and Windows Explorer are actually very similar. Your two windows should look like this:
+![image 3](CLI3.png)
 
-8. Clone the Forked SampleAssignment
+Step 7: Use Git Bash to delete the folder  junk
 
-Cloning is like downloading a file from google docs. We need the program Git Bash to do the cloning. Make sure that your are in your apjava folder with the Unix command pwd. Then type git clone. Then press the insert key to paste in the URL you copied in Step 4. Your Git Bash window should look similar to this one.  
+One way is to type the command rmdir junk (which means to remove the directory called junk). Again, notice that the folder junk is deleted from Windows Explorer on the right as well. And again, it's because we are looking at the same folder two different ways.  Your two folders should look like this:
 
 
-9. Open the program Sublime
+Step 8: Use Git Bash to create a new folder called apjava
 
-Sublime is an editor. It's like a word processor for code. We will use Sublime to personalize our web page.
+See step 6 for one way of doing this
 
-10. Open the SampleAssignment folder in Sublime
+Step 9: Navigate to the apjava folder in Git Bash
 
-Make sure to choose File | Open Folder. Click on SampleAssignment and choose Select Folder.
+One way is to type the command cd apjava. Then type the command pwd to confirm that your present working directory is apjava.
 
+Step 10: Navigate to the apjava folder in Windows Explorer
 
+One way is to double click on the apjava folder to open it. Your two windows should look like this:
+![image 4](CLI4.png)
 
+Step 11: Using Git Bash, create three folders in the apjava folder
 
-Click on the arrow next to SampleAssignment to reveal all the documents in the folder
+The three folders should have one word names that match:
+Your first name
+The month of your birthday
+Your favorite fruit
 
+See if you can do it without going back and looking at Step 6 again. You should see something similar to the following picture with differently named folders
+![image 5](CLI5.png)
 
+Step 12: Using Git Bash, navigate into the folder with your name and then navigate back out
 
+Type the following four commands in this order
+cd <your first name>
+pwd
+cd ..
+pwd
 
-Then click on index.html to reveal the code
+Step 13: Remove the folder with the same name as the month of your birthday
 
+See if you can do it without looking back at step 7.
 
+Step 14: Take a screen shot and save it
 
+One way to do this in Windows Explorer is with the snipping tool. In Windows 7 click the Start button, and then click Snipping Tool. Click and drag to capture the two windows and then choose File | Save. Your screenshot should look similar to the one below.
+![image 6](CLI6.png)
 
-11. Change index.html to use your first name
+Step 15: Submit your screenshot to the dropbox for the assignment in School Loop. Click on the assignment and choose Submit Work Device. Browse to your file and submit it.
 
-index.html is the webpage that loads your program. You are going to change index.html to use your first name. (To protect your privacy, you should not use your full and complete  name on any webpage you create for a school assignment). Change the text on line 4, 11 and 18 to personalize the text with your first name. Then choose File | Save
-
-
-12. Go back to the Git Bash program and navigate to the SampleAssignment folder
-
-Check your current location by typing pwd, (your present working directory). Navigate to the apjava folder and then type ls to list the files and folders. You should see a screen similar to this:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13. add all 4 files to be “staged”
-
-To add all 4 files you can type either git add . or git add –all. Check the results of your add by typing git status . Your screen should look similar to this:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14. Configure your username and password
-
-git needs to be configured to your user email and user name. You configure your user.name with the code git config user.name "< your user name >". For example, if your user name was MaxwellG you would type git config user.name "MaxwellG". You configure your email with the similar code  git config user.email "< your email address >". You can check to see that you've correctly configured your username and password by typing  git config user.name and  git config user.email. Your screen should look similar to this:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15. commit the 4 files
-
-When we commit we are packaging up the 4 files they we want to share on our GitHub website. You can imagine commit as placing the 4 files in an envelope with a coversheet that explains the contents. First we can check to see if our files are ready to commit by typing git status. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Type git commit -m "Added first name to index.html".  Press enter.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16. push the modified SampleAssignment to the remote repository on your GitHub account
-
-We push the modified files to our remote GitHub site by typing the code git push origin gh-pages. You'll be prompted for your username and password. After you enter them, you should see a screen like this one.
-
-
-
-
-
-
-
-
-
-
-
-
-17. The hard work is done! Now you can see your program on the web.
-
-First, be patient. It may takes 15 minutes or so before your first web page is ready. Then, open up a browser like Google chrome and enter 
-<your github username>.github.io/SampleAssignment/
-as the URL. You should see a webpage like this one.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-18. Submit the URL of your finished assignment to the dropbox in school loop
+You're all done!
