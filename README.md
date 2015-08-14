@@ -3,10 +3,32 @@ Command Line
 
 When you double click on a folder to open it, you are using the Graphical User Interface of an operating system. Most people find the GUI easy and intuitive. There is another way to open folders using the Command Line Interface. Most people find the CLI more confusing at first, but it can be faster and more powerful than the GUI. In this assignment we'll practice using the CLI to make some folders. Modern operating systems have both a CLI and a GUI. They are called different things in different operating systems, so we will start with some vocabulary:
 
-Operating System	CLI					GUI							a folder is called
-Windows				Command Prompt		Windows Explorer 				folder
-MacOS				Terminal			MacOS Finder					folder
-Unix 				shell or bash		there are too many to list here	directory
+<table style="width:100%">
+  <tr>
+    <td>Operating System</td>
+    <td>CLI</td> 
+    <td>GUI</td>
+    <td>a folder is called</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>Command Prompt</td> 
+    <td>Windows Explorer</td>
+    <td>folder</td>
+  </tr>
+  <tr>
+    <td>MacOS</td>
+    <td>Terminal</td> 
+    <td>MacOS Finder</td>
+    <td>folder</td>
+  </tr>
+  <tr>
+    <td>Unix</td>
+    <td>shell or bash</td> 
+    <td>too many to list</td>
+    <td>directory</td>
+  </tr>
+</table>
 
 The Unix CLI is especially powerful. We are going to use a program called Git Bash that lets us use Unix CLI commands on a Windows computer. The Unix commands you will use in this assignment are:
 
