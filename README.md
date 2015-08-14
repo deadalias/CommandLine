@@ -5,10 +5,10 @@ When you double click on a folder to open it, you are using the Graphical User I
 
 <table style="width:100%">
   <tr>
-    <td>Operating System</td>
-    <td>CLI</td> 
-    <td>GUI</td>
-    <td>a folder is called</td>
+    <td>**Operating System**</td>
+    <td>**CLI**</td> 
+    <td>**GUI**</td>
+    <td>**a folder is called**</td>
   </tr>
   <tr>
     <td>Windows</td>
