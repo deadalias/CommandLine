@@ -34,7 +34,7 @@ The Unix CLI is especially powerful. We are going to use a program called Git Ba
 
 `cd ~`					Change to the home directory (open the home folder)  
 `cd ..`					Navigate up ("go back") one folder  
-`cd <some folder>`	Open the folder named <some folder>  
+`cd <some folder>`	Open the folder named \<some folder\>  
 `pwd`					Present Working Directory (the current folder)  
 `ls`						List the contents of the current folder  
 `mkdir`					Make a new folder  
@@ -44,7 +44,7 @@ In this assignment you are going to create some folders. You will then take a pi
 
 **Step 1: Open Git Bash**
 
-One way to open Git Bash is to click on the Start Menu and choose All Programs | Git | Git Bash
+One way to open Git Bash is to click on the Start Menu and choose *All Programs | Git | Git Bash*
 
 **Step 2: Open Windows Explorer**
 
@@ -57,7 +57,7 @@ Your two windows should look like this
 
 **Step 4: Navigate to the My Documents folder in Windows Explorer**
 
-“Navigate” in this context means “to go there.” One way is to click on Documents under Computer in the left of the Windows Explorer window. This opens the My Documents folder to let us see its contents. So we just “navigated” to the My Documents folder.
+"Navigate" in this context means "to go there."" One way is to click on Documents under Computer in the left of the Windows Explorer window. This opens the My Documents folder to let us see its contents. So we just “navigated” to the My Documents folder.
 
 **Step 5: Navigate to and show the contents of the My Documents folder in Git Bash**
 
