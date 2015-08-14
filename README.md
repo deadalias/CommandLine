@@ -61,7 +61,7 @@ Your two windows should look like this
 
 **Step 5: Navigate to and show the contents of the My Documents folder in Git Bash**  
 
-The following four commands should help you navigate to your documents folder:
+The following four commands should help you navigate to your documents folder:  
 `cd c:`  
 `cd users`  
 `cd < your school loop username >`  
@@ -103,7 +103,7 @@ See if you can do it without going back and looking at Step 6 again. You should 
 
 **Step 12: Using Git Bash, navigate into the folder with your name and then navigate back out**
 
-Type the following four commands in this order
+Type the following four commands in this order  
 `cd <your first name>`  
 `pwd`  
 `cd ..`  
@@ -118,6 +118,7 @@ See if you can do it without looking back at step 7.
 One way to do this in Windows Explorer is with the snipping tool. In Windows 7 click the Start button, and then click Snipping Tool. Click and drag to capture the two windows and then choose *File | Save*. Your screenshot should look similar to the one below.  
 ![Image 6](/images/CLI6.png)
 
-**Step 15: Submit your screenshot to the dropbox for the assignment in School Loop**   Click on the assignment and choose *Submit Work Device*. Browse to your file and submit it.
+**Step 15: Submit your screenshot to the dropbox for the assignment in School Loop**     
+Click on the assignment and choose *Submit Work Device*. Browse to your file and submit it.
 
 You're all done!
