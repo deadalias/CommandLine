@@ -30,7 +30,7 @@ One way in Windows 7 is to click on the Start Menu and double click on Computer.
 
 Step 3: Arrange the two windows so they are about the same size and side by side
 
-Your two windows should look like this
+Your two windows should look like this  
 ![Image 1](https://APCSLowell.github.com/images/CLI1.png)
 
 Step 4: Navigate to the My Documents folder in Windows Explorer
@@ -43,12 +43,12 @@ The following four commands should help you navigate to your documents folder:
 cd c:
 cd users
 cd < your school loop username >
-cd documents
+cd documents  
 ![Image 2](https://APCSLowell.github.com/images/CLI2.png)
 
 Step 6: Use Git Bash to create a new folder called junk
 
-One way is to type the command mkdir junk (which means to make a new directory called junk) and then type the command ls to list the contents of the directory. Notice that the folder junk also pops up in Windows Explorer on the right. It's very important to realize we are looking at the same folder two different ways. Git Bash and Windows Explorer are actually very similar. Your two windows should look like this:
+One way is to type the command mkdir junk (which means to make a new directory called junk) and then type the command ls to list the contents of the directory. Notice that the folder junk also pops up in Windows Explorer on the right. It's very important to realize we are looking at the same folder two different ways. Git Bash and Windows Explorer are actually very similar. Your two windows should look like this:  
 ![Image 3](https://APCSLowell.github.com/images/CLI3.png)
 
 Step 7: Use Git Bash to delete the folder  junk
@@ -66,7 +66,7 @@ One way is to type the command cd apjava. Then type the command pwd to confirm t
 
 Step 10: Navigate to the apjava folder in Windows Explorer
 
-One way is to double click on the apjava folder to open it. Your two windows should look like this:
+One way is to double click on the apjava folder to open it. Your two windows should look like this:  
 ![Image 4](https://APCSLowell.github.com/images/CLI4.png)
 
 Step 11: Using Git Bash, create three folders in the apjava folder
@@ -76,7 +76,7 @@ Your first name
 The month of your birthday
 Your favorite fruit
 
-See if you can do it without going back and looking at Step 6 again. You should see something similar to the following picture with differently named folders
+See if you can do it without going back and looking at Step 6 again. You should see something similar to the following picture with differently named folders  
 ![Image 5](https://APCSLowell.github.com/images/CLI5.png)
 
 Step 12: Using Git Bash, navigate into the folder with your name and then navigate back out
@@ -93,7 +93,7 @@ See if you can do it without looking back at step 7.
 
 Step 14: Take a screen shot and save it
 
-One way to do this in Windows Explorer is with the snipping tool. In Windows 7 click the Start button, and then click Snipping Tool. Click and drag to capture the two windows and then choose File | Save. Your screenshot should look similar to the one below.
+One way to do this in Windows Explorer is with the snipping tool. In Windows 7 click the Start button, and then click Snipping Tool. Click and drag to capture the two windows and then choose File | Save. Your screenshot should look similar to the one below.  
 ![Image 6](https://APCSLowell.github.com/images/CLI6.png)
 
 Step 15: Submit your screenshot to the dropbox for the assignment in School Loop. Click on the assignment and choose Submit Work Device. Browse to your file and submit it.
