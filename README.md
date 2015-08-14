@@ -57,9 +57,9 @@ Your two windows should look like this
 
 **Step 4: Navigate to the My Documents folder in Windows Explorer**
 
-"Navigate" in this context means "to go there."" One way is to click on Documents under Computer in the left of the Windows Explorer window. This opens the My Documents folder to let us see its contents. So we just “navigated” to the My Documents folder.
+"Navigate" in this context means "to go there."" One way is to click on Documents under Computer in the left of the Windows Explorer window. This opens the My Documents folder to let us see its contents. So we just "navigated" to the My Documents folder.
 
-**Step 5: Navigate to and show the contents of the My Documents folder in Git Bash**
+**Step 5: Navigate to and show the contents of the My Documents folder in Git Bash**  
 
 The following four commands should help you navigate to your documents folder:
 `cd c:`  
@@ -70,7 +70,7 @@ The following four commands should help you navigate to your documents folder:
 
 **Step 6: Use Git Bash to create a new folder called junk**
 
-One way is to type the command mkdir junk (which means to make a new directory called junk) and then type the command ls to list the contents of the directory. Notice that the folder junk also pops up in Windows Explorer on the right. It's very important to realize we are looking at the same folder two different ways. Git Bash and Windows Explorer are actually very similar. Your two windows should look like this:  
+One way is to type the command `mkdir junk` (which means to make a new directory called junk) and then type the command `ls` to list the contents of the directory. Notice that the folder junk also pops up in Windows Explorer on the right. It's very important to realize we are looking at the same folder two different ways. Git Bash and Windows Explorer are actually very similar. Your two windows should look like this:  
 ![Image 3](/images/CLI3.png)
 
 **Step 7: Use Git Bash to delete the folder  junk**
@@ -115,9 +115,9 @@ See if you can do it without looking back at step 7.
 
 Step 14: Take a screen shot and save it
 
-One way to do this in Windows Explorer is with the snipping tool. In Windows 7 click the Start button, and then click Snipping Tool. Click and drag to capture the two windows and then choose File | Save. Your screenshot should look similar to the one below.  
+One way to do this in Windows Explorer is with the snipping tool. In Windows 7 click the Start button, and then click Snipping Tool. Click and drag to capture the two windows and then choose *File | Save*. Your screenshot should look similar to the one below.  
 ![Image 6](/images/CLI6.png)
 
-Step 15: Submit your screenshot to the dropbox for the assignment in School Loop. Click on the assignment and choose Submit Work Device. Browse to your file and submit it.
+Step 15: Submit your screenshot to the dropbox for the assignment in School Loop. Click on the assignment and choose *Submit Work Device*. Browse to your file and submit it.
 
 You're all done!
