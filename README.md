@@ -57,7 +57,7 @@ Your two windows should look like this
 
 **Step 4: Navigate to the My Documents folder in Windows Explorer**
 
-"Navigate" in this context means "to go there."" One way is to click on Documents under Computer in the left of the Windows Explorer window. This opens the My Documents folder to let us see its contents. So we just "navigated" to the My Documents folder.
+"Navigate" in this context means "to go there." One way is to click on Documents under Computer in the left of the Windows Explorer window. This opens the My Documents folder to let us see its contents. So we just "navigated" to the My Documents folder.
 
 **Step 5: Navigate to and show the contents of the My Documents folder in Git Bash**  
 
@@ -78,30 +78,30 @@ One way is to type the command `mkdir junk` (which means to make a new directory
 One way is to type the command `rmdir junk` (which means to remove the directory called junk). Again, notice that the folder junk is deleted from Windows Explorer on the right as well. And again, it's because we are looking at the same folder two different ways.  Your two folders should look like this:
 ![Image 3.5](/images/CLI35.png)
 
-Step 8: Use Git Bash to create a new folder called apjava
+**Step 8: Use Git Bash to create a new folder called apjava**
 
 See step 6 for one way of doing this
 
-Step 9: Navigate to the apjava folder in Git Bash
+**Step 9: Navigate to the apjava folder in Git Bash**
 
 One way is to type the command `cd apjava`. Then type the command `pwd` to confirm that your present working directory is apjava.
 
-Step 10: Navigate to the apjava folder in Windows Explorer
+**Step 10: Navigate to the apjava folder in Windows Explorer**
 
 One way is to double click on the apjava folder to open it. Your two windows should look like this:  
 ![Image 4](/images/CLI4.png)
 
-Step 11: Using Git Bash, create three folders in the apjava folder
+**Step 11: Using Git Bash, create three folders in the apjava folder**
 
-The three folders should have one word names that match:
-Your first name
-The month of your birthday
-Your favorite fruit
+The three folders should have one word names that match:  
+Your first name  
+The month of your birthday  
+Your favorite fruit  
 
 See if you can do it without going back and looking at Step 6 again. You should see something similar to the following picture with differently named folders  
 ![Image 5](/images/CLI5.png)
 
-Step 12: Using Git Bash, navigate into the folder with your name and then navigate back out
+**Step 12: Using Git Bash, navigate into the folder with your name and then navigate back out**
 
 Type the following four commands in this order
 `cd <your first name>`  
@@ -109,15 +109,15 @@ Type the following four commands in this order
 `cd ..`  
 `pwd`  
 
-Step 13: Remove the folder with the same name as the month of your birthday
+**Step 13: Remove the folder with the same name as the month of your birthday**
 
 See if you can do it without looking back at step 7.
 
-Step 14: Take a screen shot and save it
+**Step 14: Take a screen shot and save it**
 
 One way to do this in Windows Explorer is with the snipping tool. In Windows 7 click the Start button, and then click Snipping Tool. Click and drag to capture the two windows and then choose *File | Save*. Your screenshot should look similar to the one below.  
 ![Image 6](/images/CLI6.png)
 
-Step 15: Submit your screenshot to the dropbox for the assignment in School Loop. Click on the assignment and choose *Submit Work Device*. Browse to your file and submit it.
+**Step 15: Submit your screenshot to the dropbox for the assignment in School Loop**   Click on the assignment and choose *Submit Work Device*. Browse to your file and submit it.
 
 You're all done!
