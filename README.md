@@ -25,7 +25,7 @@ When you double click on a folder to open it, you are using the Graphical User I
   <tr>
     <td>Unix</td>
     <td>shell or bash</td> 
-    <td>too many to list</td>
+    <td>too many to list here</td>
     <td>directory</td>
   </tr>
 </table>
