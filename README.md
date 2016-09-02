@@ -61,7 +61,7 @@ Your two windows should look like this
 
 **Step 5: Navigate to and show the contents of the My Documents folder in Git Bash**  
 
-The following four commands should help you navigate to your documents folder. Note that you should replace `cd < your school loop username >` with your school loop username *without* the `<` and `>`.  
+The following four commands should help you navigate to your documents folder. Note that you should replace `< your school loop username >` with your school loop username *without* the `<` and `>`.  
 `cd c:`  
 `cd users`  
 `cd < your school loop username >`  
