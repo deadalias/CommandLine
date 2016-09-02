@@ -13,7 +13,7 @@ When you double click on a folder to open it, you are using the Graphical User I
   <tr>
     <td>Windows</td>
     <td>Command Prompt</td> 
-    <td>Windows Explorer</td>
+    <td>File Explorer</td>
     <td>folder</td>
   </tr>
   <tr>
