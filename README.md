@@ -118,7 +118,5 @@ See if you can do it without looking back at step 7.
 One way to do this in Windows Explorer is with the snipping tool. In Windows 7 click the Start button, and then click Snipping Tool. Click and drag to capture the two windows and then choose *File | Save*. Your screenshot should look similar to the one below.  
 ![Image 6](/images/CLI6.png)
 
-**Step 15: Submit your screenshot to the dropbox for the assignment in School Loop**     
-Click on the assignment and choose *Submit Work Device*. Browse to your file and submit it.
-
+**Step 15: Submit your screenshot to google classroom**     
 You're all done!
