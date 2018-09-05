@@ -40,22 +40,22 @@ The Unix CLI is especially powerful. We are going to use a program called Git Ba
 `mkdir`					Make a new folder  
 `rmdir`					Remove an empty folder  
 
-In this assignment you are going to create some folders. You will then take a picture of those folders with a screen shot. You will submit the screen shot to show that you have completed the assignment. You may find the PowerPoint slides 66 to 76 of the [apjava1.pptx](https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0) presentation helpful.
+In this assignment you are going to create some folders. You will then take a picture of those folders with a screen shot. You will submit the screen shot to show that you have completed the assignment. You may find the PowerPoint slides 66 to 76 of the [apjavaProcessing.pptx](https://drive.google.com/file/d/1ycy6BhFFv7j2X2hooCPa4QpTbgh-TgmN/view?usp=sharing) presentation helpful.
 
 **Step 1: Open Git Bash**
 
 One way to open Git Bash is to click on the Start Menu and choose *All Programs | Git | Git Bash*
 
-**Step 2: Open Windows Explorer**
+**Step 2: Open Windows File Explorer**
 
-One way in Windows 7 is to click on the Start Menu and double click on Computer. In Windows 8, Windows Explorer is called File Explorer.
+One way in Windows to open the File Explorer is to click on the Start Menu and click on *File Explorer*
 
 **Step 3: Arrange the two windows so they are about the same size and side by side**
 
 Your two windows should look like this  
 ![Image 1](/images/CLI1.png)
 
-**Step 4: Navigate to the My Documents folder in Windows Explorer**
+**Step 4: Navigate to the My Documents folder in Windows File Explorer**
 
 "Navigate" in this context means "to go there." One way is to click on Documents under Computer in the left of the Windows Explorer window. This opens the My Documents folder to let us see its contents. So we just "navigated" to the My Documents folder.
 
