@@ -48,7 +48,7 @@ One way to open Git Bash is to click on the Start Menu and choose *All Programs 
 
 **Step 2: Open Windows File Explorer**
 
-One way in Windows to open the File Explorer is to click on the Start Menu and click on *File Explorer*
+One way in Windows to open the File Explorer is to click on folder icon at the bottom left of the screen near the Windows Start menu
 
 **Step 3: Arrange the two windows so they are about the same size and side by side**
 
