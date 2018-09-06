@@ -1,7 +1,7 @@
 Command Line
 ================
 
-When you double click on a folder to open it, you are using the Graphical User Interface of an operating system. Most people find the GUI easy and intuitive. There is another way to open folders using the Command Line Interface. Most people find the CLI more confusing at first, but it can be faster and more powerful than the GUI. In this assignment we'll practice using the CLI to make some folders. Modern operating systems have both a CLI and a GUI. They are called different things in different operating systems, so we will start with some vocabulary:
+When you double click on a folder to open it, you are using the Graphical User Interface (GUI for short) of an operating system. Most people find the GUI easy and intuitive. There is another way to open folders using the Command Line Interface. Most people find the CLI more confusing at first, but it can be faster and more powerful than the GUI. In this assignment we'll practice using the CLI to make some folders. Modern operating systems have both a CLI and a GUI. They are called different things in different operating systems, so we will start with some vocabulary:
 
 <table style="width:100%">
   <tr>
