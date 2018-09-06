@@ -56,9 +56,9 @@ One way in Windows to open the File Explorer is to click on folder icon at the b
 Your two windows should look like this  
 ![Image 1](/images/CLI1.png)
 
-**Step 4: Navigate to the My Documents folder in Windows File Explorer**
+**Step 4: Navigate to the Documents folder in Windows File Explorer**
 
-"Navigate" in this context means "to go there." One way is to click on Documents under Computer in the left of the Windows Explorer window. This opens the My Documents folder to let us see its contents. So we just "navigated" to the My Documents folder.
+"Navigate" in this context means "to go there." One way is to click on Documents under Computer in the left of the Windows Explorer window. This opens the Documents folder to let us see its contents. So we just "navigated" to the Documents folder.
 
 **Step 5: Navigate to and show the contents of the My Documents folder in Git Bash**  
 
