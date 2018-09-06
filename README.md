@@ -116,7 +116,7 @@ See if you can do it without looking back at step 7.
 
 **Step 14: Take a screen shot and save it**
 
-One way to do this in Windows Explorer is with the snipping tool. In Windows 7 click the Start button, and then click Snipping Tool. Click and drag to capture the two windows and then choose *File | Save*. Your screenshot should look similar to the one below.  
+One way to do this in Windows Explorer is with the snipping tool. Find and start the Snipping Tool and then click and drag to capture the two windows. Choose *File | Save* (the default PNG format is fine). Your screenshot should look similar to the one below.  
 ![Image 6](/images/CLI6.png)
 
 **Step 15: Submit your screenshot to google classroom**     
