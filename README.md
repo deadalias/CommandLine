@@ -40,7 +40,7 @@ The Unix CLI is especially powerful. We are going to use a program called Git Ba
 `mkdir`					Make a new folder  
 `rmdir`					Remove an empty folder  
 
-In this assignment you are going to create some folders. You will then take a picture of those folders with a screen shot. You will submit the screen shot to show that you have completed the assignment. You may find the PowerPoint slides 101 to 110 of the [apjavaProcessing.pptx](https://drive.google.com/file/d/1ycy6BhFFv7j2X2hooCPa4QpTbgh-TgmN/view?usp=sharing) presentation helpful.
+In this assignment you are going to create some folders. You will then take a picture of those folders with a screen shot. You will submit the screen shot to show that you have completed the assignment. You may find the PowerPoint slides 101 to 110 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation helpful.
 
 **Step 1: Open Git Bash**
 
