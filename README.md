@@ -40,7 +40,7 @@ The Unix CLI is especially powerful. We are going to use a program called Git Ba
 `mkdir`					Make a new folder  
 `rmdir`					Remove an empty folder  
 
-In this assignment you are going to create some folders. You will then take a picture of those folders with a screen shot. You will submit the screen shot to show that you have completed the assignment. You may find the first 12 slides of the [apjavaGitHub](https://docs.google.com/presentation/d/1cZCHVE-uhjBDKu7bRKYKheRbYDhsFWKiydWx1dScvyc/edit?usp=sharing) slide presentation helpful.
+In this assignment you are going to create some folders. You will then take a picture of those folders with a screen shot. You will submit the screen shot to show that you have completed the assignment. 
 
 **Step 1: Open Git Bash**
 
@@ -79,20 +79,20 @@ One way is to type the command `mkdir junk` (which means to make a new directory
 One way is to type the command `rmdir junk` (which means to remove the directory called junk). Again, notice that the folder junk is deleted from Windows Explorer on the right as well. And again, it's because we are looking at the same folder two different ways.  Your two folders should look like this:
 ![Image 3.5](/images/CLI35.png)
 
-**Step 8: Use Git Bash to create a new folder called apjava**
+**Step 8: Use Git Bash to create a new folder called advjava**
 
 See step 6 for one way of doing this
 
-**Step 9: Navigate to the apjava folder in Git Bash**
+**Step 9: Navigate to the advjava folder in Git Bash**
 
-One way is to type the command `cd apjava`. Then type the command `pwd` to confirm that your present working directory is apjava.
+One way is to type the command `cd advjava`. Then type the command `pwd` to confirm that your present working directory is advjava.
 
-**Step 10: Navigate to the apjava folder in Windows Explorer**
+**Step 10: Navigate to the advjava folder in Windows Explorer**
 
-One way is to double click on the apjava folder to open it. Your two windows should look like this:  
+One way is to double click on the advjava folder to open it. Your two windows should look like this:  
 ![Image 4](/images/CLI4.png)
 
-**Step 11: Using Git Bash, create three folders in the apjava folder**
+**Step 11: Using Git Bash, create three folders in the advjava folder**
 
 The three folders should have one word names that match:  
 Your first name  
@@ -119,5 +119,5 @@ See if you can do it without looking back at step 7.
 One way to do this in Windows is with the Snipping Tool. Find and start the Snipping Tool and then click and drag to capture the two windows. Choose *File | Save* (the default PNG format is fine). Your screenshot should look similar to the one below.  
 ![Image 6](/images/CLI6.png)
 
-**Step 15: Submit your screenshot to google classroom**     
+**Step 15: Submit your screenshot to Schoology**     
 You're all done!
